@@ -1,0 +1,4 @@
+edu.wustl.cse.harmsk.eclipse.updatesite/features
+edu.wustl.cse.harmsk.eclipse.updatesite/plugins
+edu.wustl.cse.harmsk.eclipse.updatesite/*.jar
+
