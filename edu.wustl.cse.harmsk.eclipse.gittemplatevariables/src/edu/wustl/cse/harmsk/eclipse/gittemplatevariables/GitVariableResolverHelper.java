@@ -1,4 +1,4 @@
-package edu.wustl.cse.harmsk.templatevariables.core;
+package edu.wustl.cse.harmsk.eclipse.gittemplatevariables;
 
 public class GitVariableResolverHelper {
 

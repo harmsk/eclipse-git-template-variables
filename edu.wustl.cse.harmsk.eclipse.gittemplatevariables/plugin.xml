@@ -4,13 +4,13 @@
 
 	<extension point="org.eclipse.ui.editors.templates">
 		<resolver
-      		class="edu.wustl.cse.harmsk.templatevariables.core.GitVariableJavaResolver"
+      		class="edu.wustl.cse.harmsk.eclipse.gittemplatevariables.GitVariableJavaResolver"
       		contextTypeId="java"
       		type="git_config"
       		description="Grab a value from git config. Example: git_user_name:git_config(user.name)"/>
 	</extension>
 	<extension point="org.eclipse.ui.startup">
-         <startup class="edu.wustl.cse.harmsk.templatevariables.core.RegisterResolvers"/>
+         <startup class="edu.wustl.cse.harmsk.eclipse.gittemplatevariables.RegisterResolvers"/>
 	</extension>
 
 </plugin>
