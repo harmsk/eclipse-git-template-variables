@@ -21,7 +21,7 @@ Make sure your project is shared using Egit. From the templates editor, simply u
 Example:
 <pre>
 /**
- * @author ${git_user_name:git_config(user.name)} {git_user_email:git_config(user.email)}
+ * @author ${git_user_name:git_config(user.name)} $git_user_email:git_config(user.email)}
  *
  * ${tags}
  */
