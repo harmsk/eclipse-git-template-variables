@@ -3,6 +3,13 @@ Git Template Variables Eclipse Plug-in
 
 Eclipse plug-in to access git config keys from java templates.
 
+IMPORTANT!
+----------
+
+**This plugin is now obsolete.**
+As of EGit 4.0, this feature is now officially part of EGit.
+https://bugs.eclipse.org/bugs/show_bug.cgi?id=458505
+
 About
 -----
 
